@@ -1,6 +1,13 @@
 # machine-learning-book
 Excercises from book Hands on Machine Learning with Scikit-Learn and Tensorflow
 
+
+## Chapter 2
+
+Dataset comes from 
+https://raw.githubusercontent.com/ageron/handson-ml/master/datasets/housing/housing.tgz
+
+
 ## Machine learing data sources mentioned in this book
 
 Open data repositories:
